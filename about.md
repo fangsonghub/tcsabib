@@ -6,7 +6,7 @@ permalink: /about/
 
 Often times, I've found myself in a frustrating and time-consuming
 situation: I want to quickly review a topic I've read about before,
-but due to bad memory, I have to almost repete the process of my first
+but due to bad memory, I have to almost repeat the process of my first
 reading. This means wasting time on
 1. search the paper online (or my cabinet of printouts) and find an
    optimal version (e.g., recent and not behind a paywall);
@@ -27,13 +27,10 @@ paper, you will find (a subset of)
 - a short summary including the result, the main ideas, etc.;
 - personal comments or reflections.
 
-Another benefit this might serve is to help navigate a unfamiliar
-topic more efficiently. But of course, it is an essential skill that
-every researcher needs develop to be able to explore an area and
-distill the most relevant information effectively. So this whole
-endeavor could just be evil and I leave the decision and risk to
-yourself.
+I hope it will also be helpful to anyone who wants a quick navigation
+of some of the topics here. But of course, this should only be a
+jump-start for you to explore an area and distill the most relevant
+information effectively (an essential skill that every researcher
+needs to develop).
 
-That said, everybody is more than welcome to contribute!
-
-
+Thanks to all who have been and will be contributing!
