@@ -31,6 +31,7 @@ I hope it will also be helpful to anyone who wants a quick navigation
 of some of the topics here. But of course, this should only be a
 jump-start for you to explore an area and distill the most relevant
 information effectively (an essential skill that every researcher
-needs to develop).
+needs to develop and master).
 
-Thanks to all who have been and will be contributing!
+Read the [guidelines](/guide/) if you want to contribute. Thanks to all
+current and future contributors!
